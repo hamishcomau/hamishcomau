@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: /:title/
-title: 'Jekyll Serif'
+title: 'hamish.com.au'
 
 bootstrap:
   date_format: "%b %-d, %Y"
