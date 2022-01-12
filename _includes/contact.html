@@ -1,0 +1,42 @@
+<h2>Send an Email</h2>
+<form action="https://formspree.io/f/myylnqye" method="POST">
+    <div class="row g-3">
+      <div class="col-md">
+        <div class="form-floating mb-3">
+          <input type="text" class="form-control" id="name" placeholder="Full Name">
+          <label for="name">Name</label>
+        </div>
+      </div>
+      <div class="col-md">
+        <div class="form-floating mb-3">
+          <input type="email" class="form-control" id="email" placeholder="you@example.com">
+          <label for="email">Email address</label>
+        </div>
+      </div>
+    </div>
+    <div class="row g-3">
+      <div class="col-md">
+        <div class="form-floating mb-3">
+          <input type="text" class="form-control" id="phone" placeholder="0419 123 456">
+          <label for="phone">Phone</label>
+        </div>
+      </div>
+      <div class="col-md">
+        <div class="form-floating mb-3">
+          <select class="form-select" id="find" aria-label="How Did You Find Me?">
+            <option value="1">Google</option>
+            <option value="2">Bing</option>
+            <option value="3">DuckDuckGo</option>
+            <option value="4">Word of Mouth</option>
+            <option value="5">Other</option>
+          </select>
+          <label for="floatingSelect">How Did You Find Me?</label>
+        </div>
+      </div>
+    </div>
+    <div class="form-floating mb-3">
+      <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea2" style="height: 100px"></textarea>
+      <label for="floatingTextarea2">Comments</label>
+    </div>
+    <button class="btn btn-primary">Send Email</button>
+  </form>

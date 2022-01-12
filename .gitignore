@@ -1,0 +1,6 @@
+.jekyll-cache/
+.vagrant/
+Gemfile.lock
+yarn.lock
+_site/
+Vagrantfile
