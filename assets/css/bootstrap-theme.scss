@@ -23,6 +23,6 @@ $theme-colors: (
   "cyan":       $cyan
 );
 
-@import "custom-variables";
 @import "bootstrap/bootstrap";
+@import "custom-variables";
 @import "custom-styles";
