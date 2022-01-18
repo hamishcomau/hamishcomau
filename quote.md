@@ -11,7 +11,7 @@ Website design should be structured and simple, adhering to best practices. Hami
 
 We are a Burnie (Tasmania) based website design studio, providing a full range of digital and web development services. Contact us today to talk about your online strategy and website design requirements.
 
-### Support
+### Technical Support
 
 Hamish will respond within 2 business hours. You will be speaking to a senior developer at all times. Control your own responsive and optimised site with first class developers.
 
