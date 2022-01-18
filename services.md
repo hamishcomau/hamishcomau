@@ -1,7 +1,7 @@
 ---
 layout: services
 title: Services
-summary: Tasmanian web design experts. With over 15 years of experience in building websites, developed to achieve results. Hamish creates sites that are easy to maintain and flexible, making it simple to update for our clients.
+summary: Tasmanian web designer with over 20 years of experience in designing and building websites. Hamish creates sites that are easy to maintain and flexible, making it simple to update website content and sell your products or services.
 permalink: /services/
 ---
 

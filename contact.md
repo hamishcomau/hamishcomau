@@ -1,13 +1,14 @@
 ---
 layout: contact
 title: Contact
-summary: Expert and affordable website design. Contact us now to make your business stand out from the crowd. Based in Burnie and servicing Tasmania, Hamish can plan and implement your digital marketing, website design, and project management.
+summary: Expert and affordable website design. Contact us now to make your business stand out from the crowd. Located in Burnie and servicing Tasmania, Hamish can plan and implement your new website design project or improve your existing site.
 permalink: /contact/
 ---
 
-Are you interested in building a new website, SEO, digital marketing and campaigns or just improving your existing site? We can help.
+## Tasmanian Digital Agency
 
-Tasmanian Digital Agency
-Web design experts. With over 15 years of experience in building websites, developed to achieve results. Hamish creates sites that are easy to maintain and flexible, making it simple to update for our clients.
+Web design expert, with over 20 years of experience in building websites to achieve results for clients. Hamish creates sites that are easy to maintain and flexible, making it simple to update for our clients and technology partners.
 
-Your website is the most important aspect of your digital marketing, due to visitor traffic converting browsers into paying customers. We design websites with the primary goal of better traffic conversion, turning leads into sales and increasing your levels of growth.
+Your website is the most important aspect of your digital marketing, due to organic traffic converting visitors into paying customers. Hamish designs websites with the primary goal of better traffic conversion, turning leads into sales and increasing your levels of growth.
+
+Are you interested in building a new website, improving website performance to increase organic search engine rankings, updating or fixing your existing site? Hamish can help.
