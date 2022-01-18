@@ -17,6 +17,8 @@ Hamish will respond within 2 business hours. You will be speaking to a senior de
 
 ### Tasmania Website Design
 
-Beautiful website design and web applications. Servicing clients throughout Australia and the world, Hamish can develop a suitable website for small to medium businesses that align with modern standards to achieve excellent performance benchmarks. Contact the team if you need an existing website updated, or require professional assistance getting an abandoned or old website back on track.
+Beautiful website design and web applications. Servicing clients throughout Australia and the world, Hamish can develop a suitable website for small to medium businesses that align with modern standards to achieve excellent performance benchmarks.
 
-We are an expert web design studio providing complete design and development services. Hamish delivers websites for a range of different applications, from personal sites up to complex custom web applications developed in Django, Laravel, WordPress, Craft CMS, or your preferred content management system. We specialise in responsive websites, utilising opensource content management and ecommerce platforms.
+Contact the team if you need an existing website updated, or require professional assistance getting an abandoned or old website back on track. We specialise in responsive websites, utilising opensource content management and ecommerce platforms.
+
+We are an expert web design studio providing complete design and development services. Hamish delivers websites for a range of different applications, from personal sites up to complex custom web applications developed in Django, Laravel, WordPress, Craft CMS, or your preferred content management system.
