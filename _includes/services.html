@@ -1,0 +1,21 @@
+<div class="container pb-5">
+    <div class="row mt-5">
+      {% for service in site.services %}
+      <div class="col-md-6">
+        <div class="card mb-3">
+          <div class="row g-0">
+            <h3 class="card-header"><a href="{{ service.url }}" class="stretched-link">{{ service.title }}</a></h3>
+            <div class="col-md-5">
+              <img src="{{ service.featured }}" class="img-fluid rounded-start mb-3" alt="{{ service.alt }}">
+            </div>
+            <div class="col-md-7 d-flex align-items-center">
+              <div class="card-body pe-4">
+                <p class="card-text">{{ service.summary }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+    </div>
