@@ -20,12 +20,6 @@ Content Management Systems (CMS) are appropriate for websites that need regular 
 
 We work with you to develop the best CMS powered site to suit your needs, not our own personal preferences. Have complete website control, edit your own content or articles with the safety net of an experienced technician available for support when required.
 
-## WordPress Website Development
-
-Hamish is a trusted WordPress website designer. WordPress powers a large percentage of websites, and is one of the most popular content management systems. Simple website management, with our expert WordPress designers available for support and ongoing assistance. We can create a successful site, performance optimised for search and conversions, with our professional WordPress design and development expertise.
-
-In the hands of Hamish, a qualified WordPress web design expert, you have full admin access to modify your content within minutes. We can showcase your business or [eCommerce site](/services/ecommerce/), with bespoke WordPress website design. Our work is future-proof for a reasonable length of time, making sure no features or technology is made obsolete. Performance benchmarking before delivery shows we build WordPress sites the right way, and our WordPress developers can build one to your business requirements.
-
 #### Popular CMS Platforms
 
 - Joomla! is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications.
