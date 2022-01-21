@@ -13,6 +13,8 @@ permalink: /software/
 
 - [Formspree](https://formspree.io/). Very simple form processing for websites, we use our own frontend code and styling, then send the forms submission action to Formspree for validation and addtional spam filtering. Not always the best solution for a website, but very useful in a lot of static applications such as hosting a Jekyll site on Github Pages.
 
+- [MailChimp](http://eepurl.com/hSLmkH). As much as we dislike sending out advertising campaigns to thousands of poor inboxes, email marketing is still very much alive and kicking in 2022. MailChimp is still the head of the pack, creating campaigns is quick and painless, and verifying your domain is as simple as it gets. It also helps that MailChimp has a free plan if you have up to 2000 contacts and 10000 sends per month.
+
 - [Gimp](https://www.gimp.org/). Opensource Photoshop alternative for editing images and creating artwork. Works great in partnership with [Inkscape](https://inkscape.org/), which we use for vector illustration like logo and branding design. Worth a try for countries like Australia where Microsoft products are typically 66% more expensive and Adobe products typically 42% more expensive than in the USA.
 
 - [Vagrant](https://www.vagrantup.com/). Vagrant is a bit of magic we use daily. The easiest way to describe Vagrant is the creation of individual virtual machines, isolating projects to their own containerised space. Nearly every project we take on has a Vagrant environment created, along with deployment scripting, which ensures everyone is working on a website is using identical environment and tools. Similar tools exist (such as Docker) but we have been using Vagrant for a long time now and it just works.
