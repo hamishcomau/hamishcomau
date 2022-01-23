@@ -11,10 +11,6 @@ bootstrap:
   - about.md
   - contact.md
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
 collections:
   services:
     output: true

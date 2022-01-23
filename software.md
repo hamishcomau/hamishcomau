@@ -2,6 +2,7 @@
 layout: page
 title: Software
 summary: This is an evolving list of some important tools and services we utilise regularly to create stunning website designs. It will be updated regularly as we find better services or add new applications to our web design and development workflow.
+description: Important tools and services we utilise regularly to create stunning website designs and successful web applications. Learn about web design and development.
 permalink: /software/
 ---
 

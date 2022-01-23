@@ -2,10 +2,24 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
+
+  <title>{{page.title}} | hamish.com.au</title>
+  <meta name="title" content="{{page.title}} | hamish.com.au">
+  <meta name="description" content="{{ page.description }}" />
+  
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{page.title}} | hamish.com.au">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:image" content="https://hamish.com.au/assets/img/banner.png">
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{ page.url | absolute_url }}">
+  <meta property="twitter:title" content="{{page.title}} | hamish.com.au">
+  <meta property="twitter:description" content="{{ page.description }}">
+  <meta property="twitter:image" content="https://hamish.com.au/assets/img/banner.png">
+  
   <link rel="stylesheet" href="{{ '/assets/css/bootstrap-theme.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/bootstrap-icons.css' | relative_url }}">
-  {%- feed_meta -%}
 
   {%- include custom-head.html -%}
 

@@ -1,6 +1,8 @@
 ---
 layout: home
 exclude: true
+title: 
+description: We are the best web design studio in Burnie, Tasmania. Website design in Tasmania by qualified and experienced developers. We deliver high quality websites.
 ---
 
 ## Website Design Services

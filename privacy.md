@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 summary: hamish.com.au is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.
+description: hamish.com.au is committed to providing quality services to you and this policy outlines our ongoing obligations to you in respect of how we manage your Personal Information.
 permalink: /privacy/
 ---
 

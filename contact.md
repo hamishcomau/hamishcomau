@@ -2,6 +2,7 @@
 layout: contact
 title: Contact
 summary: Expert and affordable website design. Contact us now to make your business stand out from the crowd. Located in Burnie and servicing Tasmania, Hamish can plan and implement your new website design project or improve your existing site.
+description: Expert and affordable website design. Contact us now to make your business stand out from the crowd. Located in Burnie and servicing Tasmania.
 permalink: /contact/
 ---
 

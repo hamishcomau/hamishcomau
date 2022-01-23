@@ -2,6 +2,7 @@
 layout: page
 title: Legal
 summary: It’s best to have a few things written down so that we both know who should do what to meet your goals. This document defines the terms and conditions of our working relationship.
+description: It’s best to have a few things written down so that we both know who should do what to meet your goals. This document defines the terms and conditions of our working relationship.
 permalink: /legal/
 ---
 

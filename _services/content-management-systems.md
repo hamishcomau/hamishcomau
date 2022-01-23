@@ -2,6 +2,7 @@
 layout: service
 title: Content Management Systems
 summary: CMS are database driven websites with comprehensive admin dashboards, giving you the power to add or edit information. Hamish helps to select the most appropriate platform, before designing and developing a suitable template.
+description: CMS are database driven websites with comprehensive admin dashboards. We help select the best platform, giving you the power to add or edit information.
 featured: /assets/img/cms.svg
 alt: Man sitting at desk, updating website content on laptop
 ---

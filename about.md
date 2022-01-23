@@ -2,6 +2,7 @@
 layout: page
 title: About
 summary: Full-service Burnie web design studio that helps businesses realise their online competitive potential. Website design for your business needs, whether it be a simple single-page website or eCommerce store.
+description: Burnie web design studio that helps local business realise their online potential. Website design from simple single-page websites to eCommerce stores.
 permalink: /about/
 ---
 

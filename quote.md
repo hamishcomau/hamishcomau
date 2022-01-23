@@ -2,6 +2,7 @@
 layout: quote
 title: Quote
 summary: This form was created to help you to ask the right questions when preparing to start a new website or online project. We then use these answers to assist us to supply a better service for your needs and better results for your website.
+description: This form asks the right questions when preparing to start a new website design or development project. We use these responses for better web design outcomes.
 permalink: /quote/
 ---
 
