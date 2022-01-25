@@ -1,31 +1,25 @@
 // Placeholder to allow overriding predefined variables smoothly.
 // You should be able to override any Bootstrap variable here: https://github.com/twbs/bootstrap/blob/main/scss/_variables.scss
 
-$line-height-base: 1.8;
+$font-family-sans-serif: "Spline Sans", sans-serif;
+$link-color: #207567;
+$link-hover-color: #00a78b;
+$navbar-light-color: #207567;
+$navbar-light-hover-color: #00a78b;
+$navbar-light-active-color: #00a78b;
+$navbar-nav-link-padding-x: 0;
+$nav-link-padding-y: 0;
+$nav-link-margin-x: 0.5rem;
+$nav-link-margin-y: 0.5rem;
 
-:root {
-  --bs-blue: #0d6efd;
-  --bs-indigo: #6610f2;
-  --bs-purple: #6f42c1;
-  --bs-pink: #d63384;
-  --bs-red: #dc3545;
-  --bs-orange: #fd7e14;
-  --bs-yellow: #ffc107;
-  --bs-green: #198754;
-  --bs-teal: #20c997;
-  --bs-cyan: #0dcaf0;
-  --bs-white: #fff;
-  --bs-gray: #6c757d;
-  --bs-gray-dark: #343a40;
-  --bs-primary: #0d6efd;
-  --bs-secondary: #6c757d;
-  --bs-success: #198754;
-  --bs-info: #0dcaf0;
-  --bs-warning: #ffc107;
-  --bs-danger: #dc3545;
-  --bs-light: #f8f9fa;
-  --bs-dark: #212529;
-  --bs-font-sans-serif: "Spline Sans", sans-serif;
-  --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
-}
+.navbar-nav {
+    .nav-link {
+        margin: $nav-link-margin-y $nav-link-margin-x;
+    }
+
+    .show > .nav-link,
+    .nav-link.active {
+      color: $navbar-light-active-color;
+      border-bottom: 2px solid $navbar-light-active-color;
+    }
+  }

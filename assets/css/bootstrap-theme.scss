@@ -3,7 +3,7 @@
 @import "bootstrap/bootstrap-utilities";
 
 $theme-colors: (
-  "primary":    $primary,
+  "primary":    #207567,
   "secondary":  $secondary,
   "success":    $success,
   "info":       $info,
@@ -23,6 +23,6 @@ $theme-colors: (
   "cyan":       $cyan
 );
 
-@import "bootstrap/bootstrap";
 @import "custom-variables";
+@import "bootstrap/bootstrap";
 @import "custom-styles";

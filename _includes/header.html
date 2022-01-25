@@ -2,11 +2,10 @@
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.bootstrap.header_pages | default: default_paths -%}
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-light border-bottom">
     <div class="container">
       <a class="navbar-brand" href="{{ "/" | relative_url }}">
-        <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="" width="30" height="24" class="d-inline-block align-text-top">
-        {{ site.title | escape }}
+        <img src="/assets/img/logo.svg" alt="hamish.com.au Logo" width="60" height="60" class="d-inline-block align-text-middle">
       </a>
       {%- if titles_size > 0 -%}
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
