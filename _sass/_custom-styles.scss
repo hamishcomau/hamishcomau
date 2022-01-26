@@ -15,7 +15,7 @@
 .product-device {
   position: absolute;
   right: 10%;
-  bottom: -30%;
+  bottom: -50%;
   width: 300px;
   height: 540px;
   background-color: #333;
@@ -51,3 +51,27 @@
   }
 }
 
+.navbar-nav {
+  .nav-link {
+      margin: $nav-link-margin-y $nav-link-margin-x;
+  }
+
+  .show > .nav-link,
+  .nav-link.active {
+    color: $navbar-light-active-color;
+    border-bottom: 2px solid $navbar-light-active-color;
+  }
+}
+
+header {
+  z-index:1000;
+}
+
+.home-hero {
+  padding-top: 100px;
+}
+
+.hero {
+  padding-top: 160px;
+  padding-bottom: 80px;
+}
