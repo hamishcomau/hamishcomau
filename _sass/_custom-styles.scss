@@ -1,54 +1,5 @@
-.site-header {
-  background-color: rgba(0, 0, 0, .85);
-  -webkit-backdrop-filter: saturate(180%) blur(20px);
-  backdrop-filter: saturate(180%) blur(20px);
-}
-.site-header a {
-  color: #8e8e8e;
-  transition: color .15s ease-in-out;
-}
-.site-header a:hover {
-  color: #fff;
-  text-decoration: none;
-}
-
-.product-device {
-  position: absolute;
-  right: 10%;
-  bottom: -50%;
-  width: 300px;
-  height: 540px;
-  background-color: #333;
-  border-radius: 21px;
-  transform: rotate(30deg);
-}
-
-.product-device::before {
-  position: absolute;
-  top: 10%;
-  right: 10px;
-  bottom: 10%;
-  left: 10px;
-  content: "";
-  background-color: rgba(255, 255, 255, .1);
-  border-radius: 5px;
-}
-
-.product-device-2 {
-  top: -25%;
-  right: auto;
-  bottom: 0;
-  left: 5%;
-  background-color: #e5e5e5;
-}
-
-.flex-equal > * {
-  flex: 1;
-}
-@media (min-width: 768px) {
-  .flex-md-equal > * {
-    flex: 1;
-  }
+h1, h2, h3, h4, h5, h6 {
+  color: #185450;
 }
 
 .navbar-nav {
@@ -68,12 +19,63 @@ header {
 }
 
 .home-hero {
-  padding-top: 100px;
+  padding-top: 180px;
+  height: 800px;
+  background: url(/assets/img/light-bg.png);
+  background-size: cover;
+}
+
+.home-sub-hero {
+  margin-top: -340px;
+}
+
+.optimise-bg {
+  background: url();
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 80%;
+  border-radius: 21px 21px 0 0;
+}
+
+.ecommerce-bg {
+  background: url();
+  background-position: 50% 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 80%;
+  border-radius: 21px 21px 0 0;
+}
+
+.green-bg {
+  background: linear-gradient(225deg, #488F7A 0%, #185450 100%);
+}
+
+.lime-bg {
+  background: linear-gradient(45deg, #EAF6F1 0%, #FFFFFF 100%);
+}
+
+.light-bg {
+  background: url(/assets/img/light-bg-25.png);
+  background-size: cover;
+}
+
+.cta {
+  background: url(/assets/img/dark-bg.png);
+  background-size: cover;
 }
 
 .hero {
   padding-top: 160px;
   padding-bottom: 80px;
+  background: url(/assets/img/light-bg.png);
+  background-size: cover;
+}
+
+footer {
+  background: #EAF6F1;
 }
 
 footer .nav-link {
