@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-summary: This is an evolving list of some important tools and services we utilise regularly to create stunning website designs. It will be updated regularly as we find better services or add new applications to our web design and development workflow.
+summary: This is an evolving list of some important tools and services we utilise regularly to create stunning website designs. It will be updated regularly as we find better services or add new applications to our web design and development workflow. Updated 21/02/2022.
 description: Important tools and services we utilise regularly to create stunning website designs and successful web applications. Learn about web design and development.
 permalink: /software/
 ---
@@ -38,7 +38,7 @@ permalink: /software/
 
 - [Plausible](https://plausible.io/). Website analytics are confusing, and we got to a point where the default tool (Google Analytics) was too complicated and not being utilised by clients. We started the search for better website analytics data, and landed on Plausible. The best way to describe Plausible is that it is a curated type of experience, showing you real statistics in a very tidy and easy to understand user interface. Fathom analytics is also worth a mention but for now we are sticking with Plausible.
 
-- [Nightwatch](https://nightwatch.io/). Analytics do not track keyword ranking (SERP) so we need an additional application to monitor how your website is performing in organic search engine rankings. Whilst not completely sold on Nightwatch, it is what we are currently working with until something better comes along. The price seems to be reasonable in comparison to other SERP trackers.
+- [Wincher](https://wincher.com/). Analytics do not track keyword ranking (SERP) so we need an additional application to monitor how your website is performing in organic search engine rankings. We switched from Nightwatch to Wincher in February 2022, the competitor tracking at a glance is much easier in Wincher and keyword management in general is a better experience.
 
 - [Meta Tags](https://metatags.io/). Great little website that makes it quick and easy to identify your current website meta tags, and generate new ones. You can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more social networks.
 
