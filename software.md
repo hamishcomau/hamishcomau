@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-summary: This is an evolving list of some important tools and services we utilise regularly to create stunning website designs. It will be updated regularly as we find better services or add new applications to our web design and development workflow. Updated 21/02/2022.
+summary: This is an evolving list of some important tools and services we utilise regularly to create stunning website designs. It will be updated regularly as we find better services or add new applications to our web design and development workflow. Updated 23/02/2022.
 description: Important tools and services we utilise regularly to create stunning website designs and successful web applications. Learn about web design and development.
 permalink: /software/
 ---
@@ -14,7 +14,7 @@ permalink: /software/
 
 - [Formspree](https://formspree.io/). Very simple form processing for websites, we use our own frontend code and styling, then send the forms submission action to Formspree for validation and addtional spam filtering. Not always the best solution for a website, but very useful in a lot of static applications such as hosting a Jekyll site on Github Pages.
 
-- [MailChimp](http://eepurl.com/hSLmkH). As much as we dislike sending out advertising campaigns to thousands of poor inboxes, email marketing is still very much alive and kicking in 2022. MailChimp is still the head of the pack, creating campaigns is quick and painless, and verifying your domain is as simple as it gets. It also helps that MailChimp has a free plan if you have up to 2000 contacts and 10000 sends per month.
+- [EmailOctopus](https://emailoctopus.com/). As much as we dislike sending out advertising campaigns to thousands of poor inboxes, email marketing is still very much alive and kicking. We started using EmailOctopus in Feburary 2022, as we were searching for something simple and laser-focused with functionality, and so far it has delivered. Honorable mention to MailChimp, which does email marketing and a lot more... we just didn't want the "a lot more" part of their package.
 
 - [Gimp](https://www.gimp.org/). Opensource Photoshop alternative for editing images and creating artwork. Works great in partnership with [Inkscape](https://inkscape.org/), which we use for vector illustration like logo and branding design. Worth a try for countries like Australia where Microsoft products are typically 66% more expensive and Adobe products typically 42% more expensive than in the USA.
 
@@ -22,7 +22,7 @@ permalink: /software/
 
 ## Hosting and Domain Name Services
 
-- [Kinsta](https://kinsta.com/signup/?plan=visits-starter&interval=year&kaid=DOXBTNWOLNAX). Premium managed WordPress website hosting. Initially introduced to us by a client, we were very pessimistic about what it was advertising compared to actual capabilities. Make no mistake, Kinsta is the best WordPress hosting currently on the market, it works and it works brilliantly. Kinsta is super-fast, with code deployed to Google Cloud infrastructure in Melbourne (for Tasmanian and Victorian clients), and has some killer development features. Let us know if you would like to migrate your WordPress site to Kinsta, as it is something we can with no interruption to your website or online shop.
+- [Kinsta](https://kinsta.com/signup/?plan=visits-starter&interval=year&kaid=DOXBTNWOLNAX). Premium managed WordPress website hosting. Initially introduced to us by a client, we were very pessimistic about what it was advertising compared to actual capabilities. Make no mistake, Kinsta is the best WordPress hosting currently on the market, it works and it works brilliantly. Kinsta is super-fast, with code deployed to Google Cloud infrastructure in Melbourne (for Tasmanian and Victorian clients), and has some killer development features.
 
 - [Hover](https://hover.com/8rPntOPf). Canadian-based domain name registry. Whilst not the "cheapest" out there for domain names, the dashboard is easy to use and domain management is very simple. We switched to Hover in 2022 after experiencing a drop in iwantmyname standards and service levels since their acquisition by CentralNic Group Plc, particularly a success rate of 0% for .au domain name transfers.
 
