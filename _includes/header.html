@@ -1,8 +1,8 @@
-<header class="bg-transparent position-absolute top-0 w-100">
+<header class="trans-overlay position-absolute top-0 w-100">
   {%- assign default_paths = site.pages | map: "path" -%}
   {%- assign page_paths = site.bootstrap.header_pages | default: default_paths -%}
   {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-  <nav class="navbar navbar-expand-lg navbar-light">
+  <nav class="navbar navbar-expand-md navbar-light">
     <div class="container">
       <a class="navbar-brand" href="{{ "/" | relative_url }}">
         <img src="/assets/img/logo.svg" alt="hamish.com.au Logo" width="93" height="80" class="d-inline-block align-text-middle">
