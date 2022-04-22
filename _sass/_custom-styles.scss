@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 header {
-  z-index:1000;
+  z-index:1;
 }
 
 .home-hero {
@@ -97,6 +97,10 @@ a.text-white:hover {
 
 .trans-overlay {
   background: white;
+}
+
+.sidebar {
+  width: 380px;
 }
 
 // Small devices (landscape phones, 576px and up)

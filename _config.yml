@@ -6,10 +6,11 @@ bootstrap:
   date_format: "%b %-d, %Y"
 
   header_pages:
-  - about.md
   - services.md
-  - software.md
+  - about.md
   - contact.md
+  - quote.md
+  - software.md
 
 collections:
   services:
