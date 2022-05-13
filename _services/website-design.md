@@ -30,7 +30,7 @@ Hamish has delivered hundreds of websites over a 20 year period. We develop webs
 Whilst we would love to be able to offer support or updates as a freebie, it simply wouldn't be possible if we want to continue employing the best developers possible. Saving money now by using an inferior service provider will cost more over time. Hamish offers a high level of service, but if you would like to save a few dollars, we provide full admin login details to perform your own updates and content revisions.
 
 #### We must have this feature on our website. How do I do this to my project?
-We are a happy and helpful bunch, but unfortunately we have our limits when it comes to providing advice or consulting services. If you would like to get our expertise or thoughts, we are more than happy and prepared to help at an hourly or agreed rate. [Meet with Hamish](https://hamish.setmore.com/) for a coffee to discuss your plans or get recommendations for your existing website.
+We are a happy and helpful bunch, but unfortunately we have our limits when it comes to providing advice or consulting services. If you would like to get our expertise or thoughts, we are more than happy and prepared to help at an hourly or agreed rate. [Meet with Hamish](/contact/) for a coffee to discuss your plans or get recommendations for your existing website.
 
 #### Your competitor offers the same stuff for cheaper, how is that possible?
 If money is the only metric that matters, we might not be a good fit, although our pricing is excellent for the level of service and expertise we provide. Price and value are different measurements, Hamish knows what he is doing, and adds value to your project.
