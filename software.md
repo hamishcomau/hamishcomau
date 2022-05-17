@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-summary: This is an evolving list of some important tools and services we utilise regularly to create stunning website designs. It will be updated regularly as we find better services or add new applications to our web design and development workflow. Updated 23/02/2022.
+summary: This is an evolving list of some important tools and services we utilise regularly to create stunning website designs. It will be updated regularly as we find better services or add new applications to our web design and development workflow. Updated 17/05/2022 - Replaced Hover with VentraIP.
 description: Important tools and services we utilise regularly to create stunning website designs and successful web applications. Learn about web design and development.
 permalink: /software/
 ---
@@ -24,7 +24,7 @@ permalink: /software/
 
 - [Kinsta](https://kinsta.com/signup/?plan=visits-starter&interval=year&kaid=DOXBTNWOLNAX). Premium managed WordPress website hosting. Initially introduced to us by a client, we were very pessimistic about what it was advertising compared to actual capabilities. Make no mistake, Kinsta is the best WordPress hosting currently on the market, it works and it works brilliantly. Kinsta is super-fast, with code deployed to Google Cloud infrastructure in Melbourne (for Tasmanian and Victorian clients), and has some killer development features.
 
-- [Hover](https://hover.com/8rPntOPf). Canadian-based domain name registry. Whilst not the "cheapest" out there for domain names, the dashboard is easy to use and domain management is very simple. We switched to Hover in 2022 after experiencing a drop in iwantmyname standards and service levels since their acquisition by CentralNic Group Plc, particularly a success rate of 0% for .au domain name transfers.
+- [VentraIP](https://getonline.vip/4iIiUYIF). Unfortunately we had to replace Hover in May 2022, as it was becoming a nightmare for .au + .nz domain management and transfers. VentraIP worked really well, transfers were quick and easy, and whilst we miss the clean Hover dashboard we do not miss the headache of manually requesting support every time a domain needed to be transferred. VentraIP has been a pleasant surprise, and pricing seems to be very competitive.
 
 - [CloudFlare](https://www.cloudflare.com/). At a basic level, CloudFlare is a DNS host, and a very good one at that. To say DNS zones is all they do would be an understatement. CloudFlare has some great features for basic websites, as it is a CDN (content delivery network) and offers crucial services like page rules, SSL certificates, security insights, image optimisation, analytics, redirects, and you can even buy domains.
 
