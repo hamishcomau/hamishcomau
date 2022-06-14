@@ -1,18 +1,18 @@
 - title: About
   url: /about
 - title: Services
-  url: services
+  url: /services
   sublinks:
   - title: Website Design
-    url: services/website-design
+    url: /services/website-design
   - title: Content Management Systems
-    url: services/content-management-systems
+    url: /services/content-management-systems
   - title: eCommerce
-    url: services/ecommerce
+    url: /services/ecommerce
   - title: Performance Optimisation
-    url: services/performance-optimisation
+    url: /services/performance-optimisation
   - title: WordPress Development
-    url: services/wordpress
+    url: /services/wordpress
 - title: Contact
   url: /contact
 - title: Quote
