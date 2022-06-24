@@ -1,9 +1,9 @@
 ---
 layout: service
-title: eCommerce
+title: eCommerce and Online Stores
 summary: Based in Burnie, Hamish is your local eCommerce specialist, with years of expertise. We can help with all aspects of the deployment process, from point of sale to stock management solutions.
 description: Based in Burnie, we are your eCommerce specialist. Years of expertise, we can help with selling your business online, from point of sale to stock management.
-featured: /assets/img/ecommerce.svg
+featured: /assets/img/ecommerce-blue.svg
 alt: Man sitting at desk in front of a laptop, working on ecommerce website design
 ---
 

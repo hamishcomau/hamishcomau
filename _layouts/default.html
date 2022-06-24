@@ -20,6 +20,21 @@
     {%- include footer.html -%}
 
     <script src="{{ '/assets/js/bootstrap.bundle.min.js' | relative_url }}"></script>
+
+    <script>window.SavvyCal=window.SavvyCal||function(){(SavvyCal.q=SavvyCal.q||[]).push(arguments)};</script>
+<script async src="https://embed.savvycal.com/v1/embed.js"></script>
+<script>   
+  SavvyCal('init', {
+    widget: {
+      enabled: false,
+      prompt: "Meet with Hamish",
+      backgroundColor: "#4e71c2",
+      textColor: "#ffffff",
+      theme: "light",
+      link: 'hamish'
+    }
+  })
+</script>
     
   </body>
 

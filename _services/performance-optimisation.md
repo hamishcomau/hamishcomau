@@ -3,7 +3,7 @@ layout: service
 title: Performance Optimisation
 summary: Search Engine Optimisation and website performance services in Burnie and Tasmania, Hamish is the expert on improving your website performance to increase your search engine results page (SERP) position.
 description: Search engine and website performance optimisation services in Burnie and Tasmania, Improve your site performance to increase your search engine (SERP) ranking.
-featured: /assets/img/performance.svg
+featured: /assets/img/performance-blue.svg
 alt: Woman re-wiring a robot for better performance.
 ---
 

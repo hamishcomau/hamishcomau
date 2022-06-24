@@ -1,79 +1,53 @@
-<header class="trans-overlay position-absolute top-0 w-100">
-  {%- assign default_paths = site.pages | map: "path" -%}
-  {%- assign page_paths = site.bootstrap.header_pages | default: default_paths -%}
-  {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-  <nav class="navbar navbar-light fixed-top">
-    <div class="container">
-      <a class="navbar-brand" href="{{ "/" | relative_url }}">
-        <img src="/assets/img/logo.svg" alt="hamish.com.au Logo" width="93" height="80" class="d-inline-block align-text-middle">
+<header class="p-2 bg-dark">
+  <div class="container">
+    <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+      <a class="navbar-brand" href="{{ site.url }}">
+        <img src="/assets/img/logo.svg" alt="hamish.com.au Logo" width="60" height="52"
+          class="d-inline-block align-text-middle">
       </a>
-      
-      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-        <div class="offcanvas-header">
-          <img src="/assets/img/logo.svg" alt="hamish.com.au Logo" width="93" height="80" class="d-inline-block align-text-middle">
-          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">          
-            {% assign links = site.data.navigation %}
-            {% for link in links %}
-            {% assign class = nil %}
-            {% if page.url contains link.url %}
-              {% assign class = 'active' %}
-            {% endif %}
-  
-            {% if link.sublinks %}
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle {{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ link.title }}</a>
-                <ul class="dropdown-menu">
-                {% for sublink in link.sublinks %}
-                {% if sublink.title == 'separator' %}
-                <li>
-                  <hr class="dropdown-divider">
-                </li>
-                {% else %}
-                <li>
-                  <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-                </li>
-                {% endif %}
-                {% endfor %}
-                </ul>
+
+      <ul class="nav col-12 col-lg-auto me-auto justify-content-center primary-ul">
+
+        {% assign links = site.data.navigation %}
+        {% for link in links %}
+        {% assign class = nil %}
+        {% if page.url contains link.url %}
+        {% assign class = 'text-secondary' %}
+        {% else %}
+        {% assign class = 'text-white' %}
+        {% endif %}
+
+        {% if link.sublinks %}
+        <li>
+          <a class="nav-link px-2 dropdown-toggle {{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}"
+            role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ link.title }}</a>
+          <ul class="dropdown-menu">
+            {% for sublink in link.sublinks %}
+            {% if sublink.title == 'separator' %}
+            <li>
+              <hr class="dropdown-divider">
             </li>
             {% else %}
-            <li class="nav-item">
-              <a class="nav-link {{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+            <li>
+              <a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
             </li>
             {% endif %}
-            {% endfor %}          
+            {% endfor %}
           </ul>
-          <a class="btn btn-primary btn-lg ms-2" href="/quote/">Quote</a>
-        </div>
+        </li>
+        {% else %}
+        <li>
+          <a class="nav-link px-2 {{ class }}" href="{{ site.url }}{{ site.baseurl }}{{ link.url }}">{{ link.title
+            }}</a>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+
+      <div class="text-end">
+        <a data-savvycal-embed href="https://savvycal.com/hamish" class="btn btn-outline-secondary me-1">Meet Hamish</a>
+        <a href="/quote/" class="btn btn-primary ms-1">Get Started</a>
       </div>
     </div>
-  </nav>
+  </div>
 </header>
-
-<div class="sidebar bg-white border-end bg-white vh-100 offcanvas" id="sidebarNav">
-  <div class="offcanvas-header border-bottom">
-    
-    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-  </div>
-  
-  <div class="list-group list-group-flush border-bottom scrollarea">
-
-    {%- for path in page_paths -%}
-    {%- assign my_page = site.pages | where: "path", path | first -%}
-    {%- if my_page.title -%}
-    <a href="{{ my_page.url | relative_url }}" class="list-group-item list-group-item-action py-3 lh-tight {% if page.url == my_page.url %} active" aria-current="page{%- endif -%}">
-      <div class="d-flex w-100 align-items-center justify-content-between">
-        <strong class="mb-1">{{ my_page.title | escape }}</strong>
-      </div>
-    </a>
-    {%- endif -%}
-    {%- endfor -%}
-  </div>
-</div>
-

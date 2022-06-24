@@ -3,13 +3,13 @@
       {% for service in site.services %}
       <div class="col-md-6">
         <div class="card mb-3">
-          <div class="row g-0">
-            <h3 class="card-header"><a href="{{ service.url }}" class="stretched-link">{{ service.title }}</a></h3>
-            <div class="col-md-5">
-              <img src="{{ service.featured }}" class="img-fluid rounded-start mb-3" alt="{{ service.alt }}">
+          <div class="row services g-0">
+            <div class="col-md-5 d-flex align-items-center pe-2">
+              <img src="{{ service.featured }}" class="img-fluid rounded-start" alt="{{ service.alt }}">
             </div>
             <div class="col-md-7 d-flex align-items-center">
-              <div class="card-body pe-4">
+              <div class="card-body">
+                <h5><a href="{{ service.url }}" class="stretched-link text-decoration-none">{{ service.title }}</a></h5>
                 <p class="card-text">{{ service.summary }}</p>
               </div>
             </div>

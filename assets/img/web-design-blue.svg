@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 502.97 392.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dfeae2;
+      }
+
+      .cls-2 {
+        fill: #afbfb2;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #d7e0d9;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        fill: #8dc3a7;
+      }
+
+      .cls-7 {
+        fill: #207567;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="420.4" y1="-18.13" x2="474.09" y2="82.54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88b9e5"/>
+      <stop offset="1" stop-color="#6282d1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_8" data-name="Layer 8">
+      <g>
+        <rect class="cls-1" y="0.11" width="391.11" height="272.6" rx="14.44"/>
+        <rect class="cls-2" x="38.97" y="27.27" width="176.26" height="214.93" rx="17.11"/>
+        <g>
+          <rect class="cls-3" x="110.35" y="118.3" width="392.11" height="273.6" rx="14.94"/>
+          <path class="cls-4" d="M487.53,118.8A14.45,14.45,0,0,1,502,133.24V377a14.44,14.44,0,0,1-14.44,14.43H125.29A14.43,14.43,0,0,1,110.85,377V133.24a14.44,14.44,0,0,1,14.44-14.44H487.53m0-1H125.29a15.46,15.46,0,0,0-15.44,15.44V377a15.45,15.45,0,0,0,15.44,15.43H487.53A15.45,15.45,0,0,0,503,377V133.24a15.46,15.46,0,0,0-15.44-15.44Z"/>
+        </g>
+        <rect class="cls-5" x="424.99" y="24.8" width="72.71" height="67.69" rx="14.26"/>
+        <g>
+          <polygon class="cls-3" points="456.48 72.59 446.18 73.88 447.31 63.42 468.06 42.67 477.23 51.84 456.48 72.59"/>
+          <path class="cls-3" d="M479.8,49,471,40.1h0a4.55,4.55,0,0,1,6.44,0l2.41,2.41a4.55,4.55,0,0,1,0,6.44Z"/>
+        </g>
+        <rect class="cls-1" x="130.46" y="138.48" width="298.46" height="15.68" rx="7.84"/>
+        <circle class="cls-6" cx="452.32" cy="146.32" r="6.18"/>
+        <circle class="cls-7" cx="473.58" cy="146.32" r="6.18"/>
+        <g>
+          <g>
+            <rect class="cls-3" x="301.26" y="176.68" width="172.73" height="106.08" rx="6.52"/>
+            <path class="cls-1" d="M467.46,177.68a5.54,5.54,0,0,1,5.53,5.53v93a5.53,5.53,0,0,1-5.53,5.52H307.78a5.52,5.52,0,0,1-5.52-5.52v-93a5.53,5.53,0,0,1,5.52-5.53H467.46m0-2H307.78a7.53,7.53,0,0,0-7.52,7.53v93a7.52,7.52,0,0,0,7.52,7.52H467.46a7.53,7.53,0,0,0,7.53-7.52v-93a7.54,7.54,0,0,0-7.53-7.53Z"/>
+          </g>
+          <g>
+            <line class="cls-3" x1="470.94" y1="179.22" x2="304.08" y2="280.22"/>
+            <rect class="cls-1" x="289.99" y="228.72" width="195.04" height="2" transform="translate(-62.95 233.96) rotate(-31.2)"/>
+          </g>
+          <g>
+            <line class="cls-3" x1="470.99" y1="280.11" x2="304.03" y2="179.33"/>
+            <rect class="cls-1" x="386.51" y="132.21" width="2" height="195.02" transform="translate(-9.42 442.76) rotate(-58.88)"/>
+          </g>
+        </g>
+        <path class="cls-3" d="M391.31,90.64h-70A21.7,21.7,0,0,1,299.59,69V0h2V69a19.7,19.7,0,0,0,19.68,19.67h70Z"/>
+        <rect class="cls-7" x="324.83" y="61.13" width="40.63" height="13.54" rx="6.77"/>
+        <g>
+          <g>
+            <rect class="cls-3" x="145.14" y="177.99" width="103.88" height="194.71" rx="8.48"/>
+            <path class="cls-1" d="M240.54,179a7.48,7.48,0,0,1,7.48,7.49V364.22a7.48,7.48,0,0,1-7.48,7.48H153.62a7.48,7.48,0,0,1-7.48-7.48V186.48a7.48,7.48,0,0,1,7.48-7.49h86.92m0-2H153.62a9.49,9.49,0,0,0-9.48,9.49V364.22a9.49,9.49,0,0,0,9.48,9.48h86.92a9.49,9.49,0,0,0,9.48-9.48V186.48a9.49,9.49,0,0,0-9.48-9.49Z"/>
+          </g>
+          <g>
+            <line class="cls-3" x1="246.54" y1="180.89" x2="147.44" y2="371.47"/>
+            <rect class="cls-1" x="89.59" y="275.18" width="214.8" height="2" transform="translate(-138.93 323.51) rotate(-62.52)"/>
+          </g>
+          <g>
+            <line class="cls-3" x1="246.2" y1="371.75" x2="147.78" y2="180.6"/>
+            <rect class="cls-1" x="195.99" y="168.68" width="2" height="215" transform="translate(-104.57 120.81) rotate(-27.24)"/>
+          </g>
+        </g>
+        <rect class="cls-2" x="304.51" y="311.17" width="169.66" height="6.42" rx="3.21"/>
+        <rect class="cls-2" x="304.51" y="334.69" width="121.35" height="6.42" rx="3.21"/>
+      </g>
+    </g>
+  </g>
+</svg>

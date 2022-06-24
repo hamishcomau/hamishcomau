@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 416.32 272.98">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #dfeae2;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #f1f9f5;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        opacity: 0.7;
+      }
+
+      .cls-5 {
+        fill: #b4d6c1;
+      }
+
+      .cls-6 {
+        fill: #358873;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="230.42" y1="25.66" x2="425.74" y2="212.43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#88b9e5"/>
+      <stop offset="1" stop-color="#6282d1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_4" data-name="Layer 4">
+      <g>
+        <rect class="cls-1" width="391.11" height="272.6" rx="14.44"/>
+        <g>
+          <g>
+            <rect class="cls-2" x="221.65" y="53.87" width="194.67" height="112.96" rx="10.69"/>
+            <g>
+              <rect class="cls-3" x="234.2" y="133.05" width="17.23" height="4.55" rx="2.26"/>
+              <rect class="cls-3" x="234.2" y="146.18" width="46.81" height="4.55" rx="2.26"/>
+              <rect class="cls-3" x="263.1" y="133.05" width="17.23" height="4.55" rx="2.26"/>
+              <rect class="cls-3" x="291.99" y="133.05" width="17.23" height="4.55" rx="2.26"/>
+              <rect class="cls-3" x="320.88" y="133.05" width="17.23" height="4.55" rx="2.26"/>
+            </g>
+          </g>
+          <rect class="cls-4" x="233.04" y="63.62" width="33.01" height="17.37" rx="4.04"/>
+        </g>
+        <rect class="cls-5" x="278.5" y="195.04" width="82.34" height="23.52" rx="5.35"/>
+        <path class="cls-6" d="M174.46,180.17H97.74V113.1a22,22,0,0,1,22-22h32.72a22,22,0,0,1,22,22Zm-72.72-4h68.72V113.1a18,18,0,0,0-18-18H119.74a18,18,0,0,0-18,18Z"/>
+        <path class="cls-7" d="M215.11,273h-158l7.44-112c.26-3.84,4.07-6.84,8.69-6.84H199c4.62,0,8.43,3,8.68,6.84Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

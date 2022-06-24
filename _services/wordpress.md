@@ -1,9 +1,9 @@
 ---
 layout: service
-title: WordPress
+title: WordPress Expert
 summary: Simple website management, with our expert WordPress designers available for support and ongoing assistance. We can create a successful site, performance optimised for search and conversions, with our professional WordPress design and development expertise.
 description: Expert WordPress website designers in Tasmania, available now. Create a successful site for your business, performance optimised for search and conversions.
-featured: /assets/img/wordpress.svg
+featured: /assets/img/wordpress-blue.svg
 alt: Woman and dog in spacesuits, floating in space and thinking about WordPress
 ---
 

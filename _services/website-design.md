@@ -1,9 +1,9 @@
 ---
 layout: service
-title: Website Design
+title: Responsive Website Design
 summary: Our capabilities include unique custom design and affordable development to ensure a website that suits your needs. From optimising website performance, to strategic planning and consultation, Hamish ensures your website success.
 description: Custom web design for your business, located in Burnie. Affordable website design, servicing the North West Coast and Tasmania. Get your website design started.
-featured: /assets/img/web-design.svg
+featured: /assets/img/web-design-blue.svg
 alt: Man sitting at desk in front of multiple screens, coding a website
 ---
 
